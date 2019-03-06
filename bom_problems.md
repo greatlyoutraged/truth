@@ -46,9 +46,9 @@ There are many examples of this kind of plagiarism in the Book of Mormon.
 ## 3. Second Person Pronouns
 The King James Version of the Bible was published in 1611.  One area where the English of 1611 was different from the English of Joseph Smith’s day is pronoun usage.  Second person pronouns could be particularly confusing to a modern speaker.  As a reminder, first person is me talking about myself, second person is me taking to you, and third person is me and you talking about someone else.  Today (and in Joseph Smith’s time), I would use the word “you” no matter if there were one or several of you, or whether you were the subject or object of my sentence.  This chart contrasts this modern usage with the usage of King James’ day:
 
-. | King James English |   | Modern English |  
+&nbsp; | King James English | &nbsp; | Modern English | &nbsp;
 --- | --- | --- | --- | ---
-  | Singular | Plural | Singular | Plural
+&nbsp; | Singular | Plural | Singular | Plural
 Subject | thou | ye | you | you
 Object | thee | you | you | you
 Possessive | thy, thine | your, yours | your, yours | your, yours
