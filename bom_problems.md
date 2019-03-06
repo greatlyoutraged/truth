@@ -102,7 +102,7 @@ Baptism is mentioned as a ritual that is taught and performed among the Nephite 
 
 Ancient Jews did perform ritual washings, including by immersion.  Occasions that might require this ritual included touching a corpse, becoming impure due to menstruation, or even washing new cooking utensils.  Ritual washing as part of conversion was not customary until after the Babylonian captivity, which ended decades after baptism was ostensibly taught and practiced in the Book of Mormon.
 
-Other concepts that appear in the Book of Mormon but should include modern concepts of Satan, churches, synagogues, and even the Bible.
+Other concepts that appear in the Book of Mormon but shouldn't include modern concepts of Satan, churches, synagogues, and even the Bible.
 
 ## 6. Lucifer
 The Book of Mormon preserves some demonstrable mistranslations of the King James Version of the Bible.  For example, 2 Nephi 24:12 is copied from Isaiah 14:12:  "How art thou fallen from heaven, O Lucifer, son of the morning!"  “Lucifer” is not a correct translation of the original biblical text.
