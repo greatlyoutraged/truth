@@ -43,12 +43,12 @@ Here is Paul’s version in 1 Corinthians 13:4-7:
 
 There are many examples of this kind of plagiarism in the Book of Mormon.
 
-##3. Second Person Pronouns
+## 3. Second Person Pronouns
 The King James Version of the Bible was published in 1611.  One area where the English of 1611 was different from the English of Joseph Smith’s day is pronoun usage.  Second person pronouns could be particularly confusing to a modern speaker.  As a reminder, first person is me talking about myself, second person is me taking to you, and third person is me and you talking about someone else.  Today (and in Joseph Smith’s time), I would use the word “you” no matter if there were one or several of you, or whether you were the subject or object of my sentence.  This chart contrasts this modern usage with the usage of King James’ day:
 
-. | King James English | . | Modern English | .
+  | King James English |   | Modern English |  
 --- | --- | --- | --- | ---
-. | Singular | Plural | Singular | Plural
+  | Singular | Plural | Singular | Plural
 Subject | thou | ye | you | you
 Object | thee | you | you | you
 Possessive | thy, thine | your, yours | your, yours | your, yours
@@ -230,7 +230,7 @@ Alma 11:44 is another verse that shows the trinitarian roots of the Book of Morm
 
 2 Nephi 21:31 and Mormon 7:7 also describe the Father, the Son, and the Holy Ghost as “one God”.
 
-The current edition of the Book of Mormon makes no mention of God and Christ as separate, resurrected, exalted physical men.  Joseph Smith’s earliest accounts of the First Vision were also in harmony with a trinitarian world view.  Only in later accounts did two personages appear to Joseph Smith.  
+The current edition of the Book of Mormon makes no mention of God and Christ as separate, resurrected, exalted men.  Joseph Smith’s earliest accounts of the First Vision were also in harmony with a trinitarian world view.  Only in later accounts did two personages appear to Joseph Smith.  
 
 Other areas of conflict between the Book of Mormon and modern Mormon theology include the reasons for different races (and presumably that righteousness can turn dark skin white), the purposes of temples, and the circumstances under which polygamy should be practiced.
 
@@ -258,4 +258,10 @@ That’s a total of sixteen cities worth of people that Jesus murdered.  The sam
 How is it that just three days after so many of their people were killed, the remainder were suddenly happy about it?
 
 ## Conclusion
-Did you know that the Book of Mormon describes historical events that never happened, quotes scriptures that weren’t yet written, and references items and concepts that did not yet exist?  In fact, there is a conside
+There are many more questions that an honest seeker of truth could ask about the Book of Mormon.  I have tried to be brief.
+
+There are also many explanations that apologists can offer to explain away these problems.  For example, can we ever be 100% certain that Nephites didn’t smelt metals?  Couldn’t God have revealed the words of Paul to Moroni if He wanted to, even before they were written?  Isn’t it possible that two million soldiers fought in battle, and the last two left alive were the leaders of each army?  And so on with every problem.  With an omnipotent God at one’s disposal, it is always possible to find a way to explain the improbable.
+
+## Acknowledgments
+I have stolen liberally from a few people and undoubtedly borrowed smaller bits from several more.  Section 1 on the Tower of Babel, Section 3 on second person pronouns, and Section 6 on Lucifer borrow heavily from Richard Packham's web page on linguistics and the Book of Mormon at http://packham.n4m.org/linguist.htm.  Section 8 on retold stories and Section 9 on nineteenth century theology borrow heavily from the anonymous author who blogs at https://www.churchistrue.com.  I have also referenced Wikipedia and http://www.mormonthink.com/.  Only Section 11 is completely my own.
+
