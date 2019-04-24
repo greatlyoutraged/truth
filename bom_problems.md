@@ -191,6 +191,8 @@ A correspondence by letters: between Samuel C. Loveland, Preacher of the doctrin
 
 It seems clear that the author of the Book of Mormon put nineteenth century ideas into the mouths of ancient prophets.  Here are some more phrases and concepts from the Book of Mormon that are not found in the Bible, but are found in writings and sermons of the 1700’s and early 1800’s:
 
+Phrases | &nbsp; | &nbsp;
+--------------|--------------------|----------------
 merciful plan | demands of justice | spiritual death
 Great Creator | it behooveth God | crosses of the world
 endless duration | awful monster | secret combinations
@@ -263,5 +265,5 @@ There are many more questions that an honest seeker of truth could ask about the
 There are also many explanations that apologists can offer to explain away these problems.  For example, can we ever be 100% certain that Nephites didn’t smelt metals?  Couldn’t God have revealed the words of Paul to Moroni if He wanted to, even before they were written?  Isn’t it possible that two million soldiers fought in battle, and the last two left alive were the leaders of each army?  And so on with every problem.  With an omnipotent God at one’s disposal, it is always possible to find a way to explain the improbable.
 
 ## Acknowledgments
-I have stolen liberally from a few people and undoubtedly borrowed smaller bits from several more.  Section 1 on the Tower of Babel, Section 3 on second person pronouns, and Section 6 on Lucifer borrow heavily from Richard Packham's web page on linguistics and the Book of Mormon at http://packham.n4m.org/linguist.htm.  Section 8 on retold stories and Section 9 on nineteenth century theology borrow heavily from the anonymous author who blogs at https://www.churchistrue.com.  I have also referenced Wikipedia and http://www.mormonthink.com/.  Only Section 11 is completely my own.
+I have stolen liberally from a few people and undoubtedly borrowed smaller bits from several more.  Section 1 on the Tower of Babel, Section 3 on second person pronouns, and Section 6 on Lucifer borrow heavily from Richard Packham's web page on linguistics and the Book of Mormon at http://packham.n4m.org/linguist.htm.  Section 8 on retold stories and Section 9 on nineteenth century theology borrow heavily from the anonymous author who blogs at https://www.churchistrue.com.  I have also referenced Wikipedia and http://www.mormonthink.com/.
 
