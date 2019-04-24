@@ -3,15 +3,13 @@
 ## Introduction
 The Book of Mormon claims to be an ancient text written by and about people who lived somewhere in the Americas between 600 BC and 400 AD.  But how can we know if it is what it claims to be?
 
-The book includes it’s own test (Moroni 10:3-5), which is to read the book, ponder it, and pray about it.  This will result in the Holy Ghost “manifesting” that it’s true.  If you don’t get this result, the book implies that you weren’t sincere enough, that you didn’t have enough faith, or that your intent was not real.
+The book includes it’s own test (Moroni 10:3-5), which is to read the book, ponder it, and pray about it.  This will result in the Holy Ghost “manifesting” that it’s true.  If you don’t get this result, the book implies that you weren’t sincere enough, that you didn’t have enough faith, or that your intent was not genuine.
 
-This is not a good test.  First, it never “fails”—it only results in the truth seeker having to repeat the test, presumably for lack of faith, sincerity, or intent.  The test does not admit the possibility that the book might not be “true” (by which I mean:  what it claims to be).
+This is not a good test.  It never “fails”—at worst, it results in the truth seeker having to repeat the test, presumably for lack of faith, sincerity, or intent.  The test does not admit the possibility that the book might not be “true” (by which I mean:  what it claims to be).  A test that can only give one result is not a real test.
 
-Second, the same test can prove many books true.  Presumably millions of Muslims have read, pondered, and prayed about the Koran.  They have felt a seemingly divine manifestation that it’s true.
+If you do get the correct result, it’s just a hard-to-describe feeling that the book is true.  Some say it’s a “burning in the bosom”.  Psychologists call it “elevation”, and they can induce it in a subject during experimentation.  We all experience this same feeling watching certain movies that we know are not factual.  Feelings are not a good way to determine truthfulness.
 
-Third, if you do get the correct result, it’s just a hard-to-describe feeling that the book is true.  Some say it’s a “burning in the bosom”.  Psychologists call it “elevation”, and they can induce it in a subject during experimentation.  We all experience this same feeling watching certain movies that we know are not factual.  Feelings are not a good way to determine truthfulness.
-
-Let’s instead subject the book to some scrutiny, in an attempt to use logic and reason to determine whether the book is true.  Here’s a short list of problems to consider when deciding if the Book of Mormon as an ancient document containing true scripture given to us by God.
+However, the actual text of the book is evidence that we can examine.  We can use logic and reason to determine whether the book is true.  Scholars have in fact done this, and have written many volumes about their discoveries.  Some things in the text do support the idea that the Book of Mormon is true.  However, the evidence that the book is a 19th century invention is both stronger and more plentiful.
 
 ## 1. The Tower of Babel
 The story of the Jaredites in the Book of Mormon begins at the Tower of Babel:
